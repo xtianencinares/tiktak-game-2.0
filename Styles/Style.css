@@ -134,11 +134,11 @@ button {
 
 
 #C0, #C1, #C2, #C3, #C4, #C5{
-    border-bottom: 5px solid black;
+    border-bottom: 7px solid black;
 }
 
 #C0, #C1, #C3, #C4, #C6, #C7 {
-    border-right: 5px solid black;
+    border-right: 7px solid black;
 }
 
 .divTable {
