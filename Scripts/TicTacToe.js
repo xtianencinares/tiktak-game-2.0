@@ -162,7 +162,7 @@ function checkWinner() {
 function displayWinner() {
     document.getElementById("msg").textContent = message;
     for (var i = 0; i < winSequence.length; i++) {
-        winSequence[i].style.backgroundColor = "cyan";
+    winSequence[i].style.backgroundColor = "red";
     }
 }
 
