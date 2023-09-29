@@ -26,7 +26,6 @@ class Tiles {
 
 }
 
-
 class Blocks {
     constructor(id, className, innerText, bgColor, snake, ladder, next) {
         this.id = id;
