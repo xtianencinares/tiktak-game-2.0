@@ -9,7 +9,6 @@ class Player {
         this.turnTotal = turnTotal;
         this.avatar = avatar;
         this.spot = spot;
-
     }
 }
 
