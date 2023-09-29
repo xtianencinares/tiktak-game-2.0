@@ -154,7 +154,6 @@ function checkWinner() {
         }
     }
     
-
         return gameOn;    
 
 }
